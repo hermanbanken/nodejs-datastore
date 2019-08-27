@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/datastore?activeTab=versions
 
+## [4.3.0](https://www.github.com/googleapis/nodejs-datastore/compare/v4.2.0...v4.3.0) (2019-08-27)
+
+
+### Bug Fixes
+
+* **types:** fix and clean up types for request.ts ([#472](https://www.github.com/googleapis/nodejs-datastore/issues/472)) ([928f237](https://www.github.com/googleapis/nodejs-datastore/commit/928f237))
+
+
+### Features
+
+* support key re-use from serialized path ([#474](https://www.github.com/googleapis/nodejs-datastore/issues/474)) ([b36c90f](https://www.github.com/googleapis/nodejs-datastore/commit/b36c90f))
+
 ## [4.2.0](https://www.github.com/googleapis/nodejs-datastore/compare/v4.1.4...v4.2.0) (2019-08-09)
 
 
